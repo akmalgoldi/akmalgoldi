@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Akmal
+# Hi, I'm Akmal 👋
 
 🎓 Informatics student at UIN Sunan Kalijaga, Yogyakarta  
 📊 Passionate about **Data Analysis**, **Machine Learning**, and **Artificial Intelligence**  
