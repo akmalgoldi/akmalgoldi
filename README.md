@@ -18,7 +18,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  ![Akmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmalgoldi&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=akmalgoldi&show_icons=true&theme=radical" />
 </p>
 
 ---
