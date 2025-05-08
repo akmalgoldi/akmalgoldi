@@ -3,7 +3,6 @@
 🎓 Informatics student at UIN Sunan Kalijaga, Yogyakarta  
 📊 Passionate about **Data Analysis**, **Machine Learning**, and **Artificial Intelligence**  
 🔍 Currently learning: SQL, Python (Pandas, NumPy), Data Visualization, and Statistics  
-📚 Committed to continuous growth in the data science field
 
 ---
 
