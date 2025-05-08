@@ -16,7 +16,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=akmalgoldi&show_icons=true&title_color=1E90FF&icon_color=1E90FF&text_color=000000&bg_color=FFFFFF" />
 </p>
 
