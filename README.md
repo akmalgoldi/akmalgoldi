@@ -19,11 +19,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akmalgoldi&layout=compact&hide_border=true&langs_count=6)
-
----
-
 ## 📫 Connect with Me
 - [LinkedIn – Akmal Goldi](https://linkedin.com/in/akmalgoldi)  
 - [Instagram – @akmlgldi](https://instagram.com/akmlgldi)
