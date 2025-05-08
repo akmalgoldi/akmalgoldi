@@ -15,8 +15,6 @@
 ---
 
 ### 📈 GitHub Stats
-![Akmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akmalgoldi&show_icons=true&theme=default&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akmalgoldi&layout=compact&hide_border=true&langs_count=6)
 
 ---
