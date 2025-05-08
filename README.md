@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Akmal</h1>
 
-<p align="center">
+<p 
 🎓 Informatics student at UIN Sunan Kalijaga, Yogyakarta <br>
 📊 Passionate about <b>Data Analysis</b>, <b>Machine Learning</b>, and <b>Artificial Intelligence</b> <br>
 🔍 Currently learning: SQL, Python (Pandas, NumPy), Data Visualization, and Statistics <br>
