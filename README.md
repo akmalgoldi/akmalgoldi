@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Akmal
 
-🎓 Informatics student at UIN Sunan Kalijaga, Yogyakarta.  
-📊 Passionate about **Data Analysis**, **Machine Learning**, and **Artificial Intelligence**.  
-🔍 Currently learning: SQL, Python (Pandas, NumPy), Data Visualization, and Statistics.    
+🎓 Informatics student at UIN Sunan Kalijaga, Yogyakarta. <br>
+📊 Passionate about **Data Analysis**, **Machine Learning**, and **Artificial Intelligence**. <br>
+🔍 Currently learning: SQL, Python (Pandas, NumPy), Data Visualization, and Statistics. <br>
 📚 Always striving to learn and grow in the data field.
 
 ---
